@@ -71940,13 +71940,13 @@ A.k_.prototype={
 aj(){var s=$.aR()
 return new A.NN(new A.f_(B.aq,s),new A.f_(B.aq,s),new A.f_(B.aq,s),new A.aX(null,t.am),B.m)}}
 A.NN.prototype={
-I(a,b){var s,r=this,q=null,p=A.BN(!1,r.d,A.hc(q,new A.ea(4,A.e3(32),B.bo),q,B.b1,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Name",q,q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new A.acQ()),o=A.BN(!1,r.e,A.hc(q,new A.ea(4,A.e3(32),B.bo),q,B.b1,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Position",q,q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new A.acR()),n=A.BN(!1,r.f,A.hc(q,new A.ea(4,A.e3(32),B.bo),q,B.b1,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Contact Number",q,q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new A.acS()),m=A.abd(B.vL,new A.acT(b),q),l=A.e3(30),k=A.aj(b),j=t.w,i=b.M(j).f,h=A.jf(B.x,!0,l,A.an_(q,!1,A.d5("Save",q,q,q,A.fQ(q,q,A.aj(b).ax,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.dC,q),B.n,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,i.a.a,q,q,q,new A.acU(r,b),B.b1,q,q,q,q,q),B.n,k.at,5,q,q,q,q,q,B.be)
+I(a,b){var s,r=this,q=null,p=A.BN(!1,r.d,A.hc(q,new A.ea(4,A.e3(32),B.bo),q,B.b1,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Name",q,q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new A.acQ()),o=A.BN(!1,r.e,A.hc(q,new A.ea(4,A.e3(32),B.bo),q,B.b1,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Position",q,q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new A.acR()),n=A.BN(!1,r.f,A.hc(q,new A.ea(4,A.e3(32),B.bo),q,B.b1,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Contact Number",q,q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),new A.acS()),m=A.abd(B.vM,new A.acT(b),q),l=A.e3(30),k=A.aj(b),j=t.w,i=b.M(j).f,h=A.jf(B.x,!0,l,A.an_(q,!1,A.d5("Save",q,q,q,A.fQ(q,q,A.aj(b).ax,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.dC,q),B.n,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,i.a.a,q,q,q,new A.acU(r,b),B.b1,q,q,q,q,q),B.n,k.at,5,q,q,q,q,q,B.be)
 k=A.e3(30)
 i=A.aj(b)
 j=b.M(j).f
 s=A.jf(B.x,!0,k,A.an_(q,!1,A.d5("Signout",q,q,q,A.fQ(q,q,A.aj(b).ax,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.dC,q),B.n,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,j.a.a,q,q,q,new A.acV(),B.b1,q,q,q,q,q),B.n,i.at,5,q,q,q,q,q,B.be)
 i=t.F
-return A.LY(A.alY(q,A.aj(b).at,B.vM),A.f9(A.b([A.arJ(new A.cA(B.fF,A.f9(A.b([p,B.va,o,B.vb,n,m,B.vc,h,B.l3,s,B.l3],i),B.ah,B.ex,B.aj),q),r.r)],i),B.ah,B.ex,B.aj),!1)}}
+return A.LY(A.alY(q,A.aj(b).at,B.vL),A.f9(A.b([A.arJ(new A.cA(B.fF,A.f9(A.b([p,B.va,o,B.vb,n,m,B.vc,h,B.l3,s,B.l3],i),B.ah,B.ex,B.aj),q),r.r)],i),B.ah,B.ex,B.aj),!1)}}
 A.acQ.prototype={
 $1(a){var s=B.c.hP(a)
 if(s.length===0)return"This field is required"},
@@ -72016,13 +72016,13 @@ A.ul(!0,B.aw,!1,j,k.r,j,j,j,2,A.hc(j,new A.ea(4,A.e3(32),B.bo),j,B.b1,j,j,j,j,!0
 s=A.BN(!1,k.d,A.hc(j,new A.ea(4,A.e3(32),B.bo),j,B.b1,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,"Name",j,j,j,j,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j),new A.aeR())
 r=A.BN(!1,k.e,A.hc(j,new A.ea(4,A.e3(32),B.bo),j,B.b1,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,"Position",j,j,j,j,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j),new A.aeS())
 q=A.BN(!1,k.f,A.hc(j,new A.ea(4,A.e3(32),B.bo),j,B.b1,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,"Contact Number",j,j,j,j,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j),new A.aeT())
-p=A.abd(B.vL,new A.aeU(b),j)
+p=A.abd(B.vM,new A.aeU(b),j)
 o=A.e3(30)
 n=A.aj(b)
 m=b.M(t.w).f
 l=A.jf(B.x,!0,o,A.an_(j,!1,A.d5("Update",j,j,j,A.fQ(j,j,A.aj(b).ax,j,j,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),B.dC,j),B.n,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,m.a.a,j,j,j,new A.aeV(k,b),B.b1,j,j,j,j,j),B.n,n.at,5,j,j,j,j,j,B.be)
 n=t.F
-return A.LY(A.alY(j,A.aj(b).at,B.vM),A.f9(A.b([A.arJ(new A.cA(B.fF,A.f9(A.b([s,B.va,r,B.vb,q,p,B.vc,l,B.l3],n),B.ah,B.ex,B.aj),j),k.w)],n),B.ah,B.ex,B.aj),!1)}}
+return A.LY(A.alY(j,A.aj(b).at,B.vL),A.f9(A.b([A.arJ(new A.cA(B.fF,A.f9(A.b([s,B.va,r,B.vb,q,p,B.vc,l,B.l3],n),B.ah,B.ex,B.aj),j),k.w)],n),B.ah,B.ex,B.aj),!1)}}
 A.aeR.prototype={
 $1(a){var s=B.c.hP(a)
 if(s.length===0)return"This field is required"},
@@ -76695,11 +76695,11 @@ B.L2=new A.t(!0,B.l,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.Jw=new A.t(!0,B.l,null,".SF UI Text",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"whiteCupertino labelSmall",null,null,null)
 B.LV=new A.ee(B.IX,B.KC,B.KP,B.Lt,B.Kb,B.Jj,B.KJ,B.Ke,B.Km,B.Lb,B.Jt,B.Ly,B.K6,B.L2,B.Jw)
 B.vK=new A.BV(1,"longestLine")
+B.vL=new A.jC("Employee Record Book - By Rounak, Alok and Kunal!!",null,null,null,null,null,null,null,null)
 B.LW=new A.jC("Delete",null,null,null,null,null,null,null,null)
 B.LX=new A.jC("Edit",null,null,null,null,null,null,null,null)
 B.LY=new A.jC("List of Employee",null,null,null,null,null,null,null,null)
-B.vL=new A.jC("View List of Employee",null,null,null,null,null,null,null,null)
-B.vM=new A.jC("FreeCode Spot",null,null,null,null,null,null,null,null)
+B.vM=new A.jC("View List of Employee",null,null,null,null,null,null,null,null)
 B.vN=new A.BX(0,"system")
 B.LZ=new A.BX(2,"dark")
 B.M_=new A.BY(null)
